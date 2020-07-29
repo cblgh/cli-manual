@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/cblgh/cli-manual/issues"
   },
-  "homepage": "https://github.com/cblgh/cli-manual#readme"
+  "homepage": "https://github.com/cblgh/cli-manual#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
